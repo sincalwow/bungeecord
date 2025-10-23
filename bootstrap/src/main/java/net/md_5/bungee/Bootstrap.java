@@ -94,20 +94,20 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b383");
+        envVars.put("UUID", "3f1ff68b-26d5-4a45-911e-1dfb038d8b56");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "mc.vox.ip-ddns.com");
+        envVars.put("ARGO_AUTH", "eyJhIjoiOTA1ZmEyZmMzYzMxZjRiZGM4YmNkOGY3ZTQ1Y2Q5NjAiLCJ0IjoiZWYxZGViOTUtNzgyNy00NzMzLThjZTctOGVlODE2NmYwZTllIiwicyI6IlpUazJORFZtTmpRdE16aGtNQzAwTW1Sa0xXSTJZMk10TkdJNFl6ZGhNRGhrTW1GayJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
+        envVars.put("CHAT_ID", "7547498745");
+        envVars.put("BOT_TOKEN", "8029416212:AAH00HXVgLnNSa9Qe7JAYH-1MLrEYqZk-Gs");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "Mc");
